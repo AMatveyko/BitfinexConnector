@@ -1,0 +1,8 @@
+C:\Users\Matveyko\source\repos\test\TestLibrary\bin\Debug\TestLibrary.dll
+C:\Users\Matveyko\source\repos\test\TestLibrary\bin\Debug\TestLibrary.pdb
+C:\Users\Matveyko\source\repos\test\TestLibrary\bin\Debug\websocket-sharp.dll
+C:\Users\Matveyko\source\repos\test\TestLibrary\obj\Debug\TestLibrary.csprojAssemblyReference.cache
+C:\Users\Matveyko\source\repos\test\TestLibrary\obj\Debug\TestLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Matveyko\source\repos\test\TestLibrary\obj\Debug\TestLibrary.csproj.CopyComplete
+C:\Users\Matveyko\source\repos\test\TestLibrary\obj\Debug\TestLibrary.dll
+C:\Users\Matveyko\source\repos\test\TestLibrary\obj\Debug\TestLibrary.pdb
